@@ -88,4 +88,3 @@ Before you begin, ensure you have the following installed:
 4.  **Get Your Answer:** The application will then retrieve relevant document snippets and use Groq's Llama3 to generate a precise answer based on the context.
 5.  **Explore Context:** Expand the "Document similarity Search" section to see the exact document chunks that were used to formulate the answer, providing transparency and traceability.
 
-## 📂 Project Structure
